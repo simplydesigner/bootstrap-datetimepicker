@@ -14,7 +14,7 @@
                 <div class='input-group date' id='datetimepicker1'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
+                        <span class="fa fa-calendar"></span>
                     </span>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                 <div class='input-group date' id='datetimepicker1'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
+                        <span class="fa fa-calendar"></span>
                     </span>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                 <div class='input-group date' id='datetimepicker2'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
+                        <span class="fa fa-calendar"></span>
                     </span>
                 </div>
             </div>
@@ -87,7 +87,7 @@
                 <div class='input-group date' id='datetimepicker2'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
+                        <span class="fa fa-calendar"></span>
                     </span>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                 <div class='input-group date' id='datetimepicker3'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-time"></span>
+                        <span class="fa fa-clock-o"></span>
                     </span>
                 </div>
             </div>
@@ -139,7 +139,7 @@
                 <div class='input-group date' id='datetimepicker3'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-time"></span>
+                        <span class="fa fa-clock-o"></span>
                     </span>
                 </div>
             </div>
@@ -166,7 +166,7 @@
                 <div class='input-group date' id='datetimepicker3'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-time"></span>
+                        <span class="fa fa-clock-o"></span>
                     </span>
                 </div>
             </div>
@@ -191,7 +191,7 @@
                 <div class='input-group date' id='datetimepicker3'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-time"></span>
+                        <span class="fa fa-clock-o"></span>
                     </span>
                 </div>
             </div>
@@ -253,7 +253,7 @@
                 <div class='input-group date' id='datetimepicker5'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
+                        <span class="fa fa-calendar"></span>
                     </span>
                 </div>
             </div>
@@ -283,7 +283,7 @@
                 <div class='input-group date' id='datetimepicker5'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
+                        <span class="fa fa-calendar"></span>
                     </span>
                 </div>
             </div>
@@ -314,7 +314,7 @@
             <div class='input-group date' id='datetimepicker6'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
+                    <span class="fa fa-calendar"></span>
                 </span>
             </div>
         </div>
@@ -324,7 +324,7 @@
             <div class='input-group date' id='datetimepicker7'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
+                    <span class="fa fa-calendar"></span>
                 </span>
             </div>
         </div>
@@ -354,7 +354,7 @@
             <div class='input-group date' id='datetimepicker6'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
+                    <span class="fa fa-calendar"></span>
                 </span>
             </div>
         </div>
@@ -364,7 +364,7 @@
             <div class='input-group date' id='datetimepicker7'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar"></span>
+                    <span class="fa fa-calendar"></span>
                 </span>
             </div>
         </div>
@@ -456,7 +456,7 @@
             <div class='input-group date' id='datetimepicker9'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar">
+                    <span class="fa fa-calendar">
                     </span>
                 </span>
             </div>
@@ -480,7 +480,7 @@
             <div class='input-group date' id='datetimepicker9'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar">
+                    <span class="fa fa-calendar">
                     </span>
                 </span>
             </div>
@@ -506,7 +506,7 @@
             <div class='input-group date' id='datetimepicker10'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar">
+                    <span class="fa fa-calendar">
                     </span>
                 </span>
             </div>
@@ -531,7 +531,7 @@
             <div class='input-group date' id='datetimepicker10'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar">
+                    <span class="fa fa-calendar">
                     </span>
                 </span>
             </div>
@@ -559,7 +559,7 @@
             <div class='input-group date' id='datetimepicker11'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar">
+                    <span class="fa fa-calendar">
                     </span>
                 </span>
             </div>
@@ -583,7 +583,7 @@
             <div class='input-group date' id='datetimepicker11'>
                 <input type='text' class="form-control" />
                 <span class="input-group-addon">
-                    <span class="glyphicon glyphicon-calendar">
+                    <span class="fa fa-calendar">
                     </span>
                 </span>
             </div>

@@ -4,7 +4,7 @@
     src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 
-.glyphicon {
+.fa {
     position: relative;
     top: 1px;
     display: inline-block;
@@ -16,27 +16,27 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.glyphicon-time:before {
+.fa-clock-o:before {
     content: "\e023";
 }
 
-.glyphicon-chevron-left:before {
+.fa-chevron-left:before {
     content: "\e079";
 }
 
-.glyphicon-chevron-right:before {
+.fa-chevron-right:before {
     content: "\e080";
 }
 
-.glyphicon-chevron-up:before {
+.fa-chevron-up:before {
     content: "\e113";
 }
 
-.glyphicon-chevron-down:before {
+.fa-chevron-down:before {
     content: "\e114";
 }
 
-.glyphicon-calendar:before {
+.fa-calendar:before {
     content: "\e109";
 }
 

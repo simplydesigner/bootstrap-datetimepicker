@@ -281,15 +281,15 @@ Takes an `[` `string` or `Date` or `moment` `]` of values and allows the user to
 ### icons
 
 	Default: {
-                time: 'glyphicon glyphicon-time',
-                date: 'glyphicon glyphicon-calendar',
-                up: 'glyphicon glyphicon-chevron-up',
-                down: 'glyphicon glyphicon-chevron-down',
-                previous: 'glyphicon glyphicon-chevron-left',
-                next: 'glyphicon glyphicon-chevron-right',
+                time: 'fa fa-clock-o',
+                date: 'fa fa-calendar',
+                up: 'fa fa-chevron-up',
+                down: 'fa fa-chevron-down',
+                previous: 'fa fa-chevron-left',
+                next: 'fa fa-chevron-right',
                 today: 'glyphicon glyphicon-screenshot',
-                clear: 'glyphicon glyphicon-trash',
-                close: 'glyphicon glyphicon-remove'
+                clear: 'fa fa-trash',
+                close: 'fa fa-times'
             }
     Accepts: object with all or some of the parameters above
 
