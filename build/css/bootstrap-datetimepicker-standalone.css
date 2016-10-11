@@ -40,6 +40,14 @@
     content: "\e109";
 }
 
+.bootstrap-datetimepicker-widget .fa-clock-o {
+	color: #0275d8;
+}
+
+.bootstrap-datetimepicker-widget .fa-calendar {
+	color: #0275d8;
+}
+
 .btn {
     display: inline-block;
     padding: 6px 12px;
